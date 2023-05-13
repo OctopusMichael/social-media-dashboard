@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Page Views",
+    "views": 87,
+    "porcent": "3%",
+    "imgSocial": "img fb",
+    "imgFooter" : "img up"
+  },
+  {
+    "id": 2,
+    "title": "Likes",
+    "views": 52,
+    "porcent": "2%",
+    "imgSocial": "img fb",
+    "imgFooter" : "img down"
+  
+  },
+  {
+    "id": 3,
+    "title": "Likes",
+    "views": 5462,
+    "porcent": "2257%",
+    "imgSocial": "img ig",
+    "imgFooter" : "img up"
+  },
+  {
+    "id": 4,
+    "title": "Profile Views",
+    "views": "52k",
+    "porcent": "1375%",
+    "imgSocial": "img ig",
+    "imgFooter" : "img up"
+  },
+  {
+    "id": 5,
+    "title": "Retweets",
+    "views": 117,
+    "porcent": "303%",
+    "imgSocial": "img twt",
+    "imgFooter" : "img up"
+  },
+  {
+    "id": 6,
+    "title": "Likes",
+    "views": 507,
+    "porcent": "553%",
+    "imgSocial": "img twt",
+    "imgFooter" : "img up"
+  },
+  {
+    "id": 7,
+    "title": "Likes",
+    "views": 107,
+    "porcent": "19%",
+    "imgSocial": "img yt",
+    "imgFooter" : "img down"
+    
+    
+    
+  },
+  {
+    "id": 8,
+    "title": "Total Views",
+    "views": 1407,
+    "porcent": "12%",
+    "imgSocial": "img yt",
+    "imgFooter" : "img down",
+    "error" : true
+    
+   
+  }
+]

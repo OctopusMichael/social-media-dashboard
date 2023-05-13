@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "card" : "card-border fb",
+    "imgSocial" : "img fb",
+    "user": "@nathanf",
+    "subtitle": "Followers",
+    "followers": 1987,
+    "imgFooter" : "img up",
+    "today": "12 today"
+  },
+  {
+    "id": 2,
+    "card" : "card-border twt ",
+    "imgSocial" : "img twt",
+    "user": "@nathanf",
+    "subtitle": "Followers",
+    "followers": 1044,
+    "imgFooter" : "img up",
+    "today": " 99 today"
+  },
+  {
+    "id": 3,
+    "card" : "card-border ig",
+    "imgSocial" : "img ig",
+    "user": " @realnathanf",
+    "subtitle": "Followers",
+    "followers": "11k",
+    "imgFooter" : "img up",
+    "today": "1099 Today"
+  },
+  {
+    "id": 4,
+    "card" : "card-border yt",
+    "imgSocial" : "img yt",
+    "user": "Nathan F.",
+    "subtitle": "  Subscribers",
+    "followers": 8239,
+    "imgFooter" : "img down",
+    "today": "144  Today",
+    "error" : "down-error"
+  }
+]
+
+
+
